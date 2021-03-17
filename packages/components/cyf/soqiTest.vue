@@ -1,16 +1,11 @@
 <template>
-   <div>
-      这是一个文本公用组件{{title}}
-   </div>
+  <div>
+    这是一个文本公用组件{{title}}
+  </div>
 </template>
 <script>
 export default{
-  props: {
-    title:{
-      type:'String',
-      default:'标题'
-    }
-  },
+  props: ['title'],
   data(){
     return{
 
@@ -21,7 +16,6 @@ export default{
   },
   mounted:function(){
   },
-
 }
 </script>
 
