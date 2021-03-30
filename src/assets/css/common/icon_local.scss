@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: 'custom-iconfont';  /* project id 2438820 */
+  src: url('//at.alicdn.com/t/font_2438820_xpsd03xery.eot');
+  src: url('//at.alicdn.com/t/font_2438820_xpsd03xery.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2438820_xpsd03xery.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2438820_xpsd03xery.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2438820_xpsd03xery.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2438820_xpsd03xery.svg#iconfont') format('svg');
+}
+.van-icon {
+  font-family: 'vant-icon', 'custom-iconfont' !important;
+}
+
+.van-icon-Filter:after{ content:'\e655'} /*筛选*/
+.van-icon-Play:after{ content:'\e659'} /*筛选*/
