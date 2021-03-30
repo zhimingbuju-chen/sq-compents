@@ -82,8 +82,6 @@
         default:false,
         type:Boolean,
       }
-
-
     },
     data(){
       return {

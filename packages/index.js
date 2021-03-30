@@ -1,5 +1,5 @@
 import soqiTest from './components/cyf/soqiTest'
-import chooseVideo from './components/chooseVideo/index'
+import chooseVideo from '../src/components/chooseVideo/index'
 export {
   soqiTest,chooseVideo
 }
