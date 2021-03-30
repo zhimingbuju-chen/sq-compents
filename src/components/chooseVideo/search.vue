@@ -73,6 +73,7 @@
 </script>
 
 
+<!--
 <style lang="scss" scoped src="@/components/chooseVideo/css/video.scss"></style>
 <style lang="scss" scoped>
   .nav-search{
@@ -89,3 +90,4 @@
      }
   }
 </style>
+-->
